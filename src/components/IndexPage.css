@@ -7,14 +7,16 @@
 }
 
 .left-split {
-  background-color: rgb(83, 83, 83);
+  background-color: rgb(241, 241, 241);
+  font-size: 22px;
   flex: 2;
-  padding: 20px;
+  padding: 50px;
+  color: rgb(0, 0, 0);
 }
 
 .right-split {
   flex: 1;
   max-width: 300px;
   min-width: 100px;
-  background-color: rgb(51, 51, 51);
+  background-color: rgb(226, 226, 226);
 }

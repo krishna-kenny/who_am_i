@@ -1,7 +1,5 @@
-const WorkPage = ( )=> {
-  return (
-    <h6>this is the work page</h6>
-  )
-}
+const WorkPage = () => {
+  return <h1>this is the work page</h1>;
+};
 
 export default WorkPage;
