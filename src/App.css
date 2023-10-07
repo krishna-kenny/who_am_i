@@ -15,7 +15,6 @@
 .nav-bar {
   width: 150px;
   background-color: rgb(230, 230, 230);
-  color: rgb(200, 200, 200);
 }
 
 .content {
@@ -44,3 +43,4 @@ ul {
 highlight {
   font-weight: bold;
 }
+

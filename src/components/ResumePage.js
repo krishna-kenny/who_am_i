@@ -1,6 +1,6 @@
 const ResumePage = () => {
   return (
-    <>
+    <> 
       <iframe
         src="https://drive.google.com/file/d/1FS-ESyMNngq-Yz0rnqdnqsVDZsNImTnr/preview"
         width="100%"
