@@ -1,5 +1,4 @@
 import "./IndexPage.css";
-import my_image from "./resources/me.jpg";
 
 const IndexPage = () => {
   return (
@@ -37,11 +36,12 @@ const IndexPage = () => {
       </div>
 
       <div className="right-split">
-        <img
-          src={my_image}
-          alt="I'm so handsome it isn't loading my pic right!"
-          style={{ width: "90%", margin: "5%" }}
-        />
+        <iframe
+          src="https://drive.google.com/file/d/1-upKcIgWGCJQF0xHb6Zao5cWhkbmrHQJ/preview"
+          title="me!"
+          style={{ width: "85%", height: "40%", margin: "5%"}}
+        ></iframe>
+        
         <contact>
           <ul>
             <li>
